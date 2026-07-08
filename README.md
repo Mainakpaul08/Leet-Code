@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mainakpaul08/Leet-Code/tree/master/0035-search-insert-position) |
+| [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mainakpaul08/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

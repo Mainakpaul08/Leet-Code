@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mainakpaul08/Leet-Code/tree/master/0035-search-insert-position) |
+| [0605-can-place-flowers](https://github.com/Mainakpaul08/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Mainakpaul08/Leet-Code/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

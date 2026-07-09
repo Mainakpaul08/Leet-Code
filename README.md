@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mainakpaul08/Leet-Code/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Mainakpaul08/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mainakpaul08/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mainakpaul08/Leet-Code/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Mainakpaul08/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mainakpaul08/Leet-Code/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mainakpaul08/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

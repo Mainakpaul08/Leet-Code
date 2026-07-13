@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mainakpaul08/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mainakpaul08/Leet-Code/tree/master/0605-can-place-flowers) |
 | [1572-matrix-diagonal-sum](https://github.com/Mainakpaul08/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/Mainakpaul08/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mainakpaul08/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Mainakpaul08/Leet-Code/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

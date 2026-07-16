@@ -47,16 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mainakpaul08/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Mainakpaul08/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mainakpaul08/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Mainakpaul08/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mainakpaul08/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Mainakpaul08/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mainakpaul08/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Mainakpaul08/Leet-Code/tree/master/0897-increasing-order-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Mainakpaul08/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->

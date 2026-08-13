@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mainakpaul08/Leet-Code/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mainakpaul08/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mainakpaul08/Leet-Code/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mainakpaul08/Leet-Code/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Mainakpaul08/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
@@ -70,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mainakpaul08/Leet-Code/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainakpaul08/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mainakpaul08/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mainakpaul08/Leet-Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
